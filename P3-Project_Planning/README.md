@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+![Base Wireframe](https://photos.google.com/u/1/photo/AF1QipOedhqtTflMCvx3UMr1C04fa6luv0_WBfLsma5B)
+![Character Creation Wireframe](https://photos.google.com/u/1/photo/AF1QipOlt5TQB7RZQ2vxYhHX6PzhzXxm1MxXgQcQU6hh)
+![Homepage Wireframe](https://photos.google.com/u/1/photo/AF1QipMgY-NDovye7jAyBVrwEFTcrMGPqHMZ8PNkJkRn)
 
 ### Project Tracker
 
