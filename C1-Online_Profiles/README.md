@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn](https://www.linkedin.com/in/kj-sweet/)
 
 ### Resume
-![Resume](https://https://raw.githubusercontent.com/sweetk/liftoff-assignments/blob/master/C1-Online_Profiles/assets/resume.pdf)
+![Resume](https://https://raw.githubusercontent.com/sweetk/liftoff-assignments/master/C1-Online_Profiles/assets/resume.pdf)
